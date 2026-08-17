@@ -1,0 +1,5244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog supplier="FRANKE" stock_date="13.08.2026" generated="2026-08-17T13:30:21+03:00">
+  <product>
+    <article>101.0381.806</article>
+    <name>LLX 611-79, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">6448</price>
+    <price_eur currency="EUR">124</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0381.808</article>
+    <name>LLX 611-79, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">6448</price>
+    <price_eur currency="EUR">124</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0381.809</article>
+    <name>LLL 611-79, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">7072</price>
+    <price_eur currency="EUR">136</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0381.810</article>
+    <name>LLL 611-79, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">7072</price>
+    <price_eur currency="EUR">136</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0381.836</article>
+    <name>LLL 651, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">10088</price>
+    <price_eur currency="EUR">194</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0381.837</article>
+    <name>LLL 651, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">10088</price>
+    <price_eur currency="EUR">194</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0381.838</article>
+    <name>LLX 620-79 (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0381.839</article>
+    <name>LLL 620-79 (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0456.705</article>
+    <name>SRX 611-86 XL (вкл. вент-ексц. 3 1/2"+сиф) НОВИЙ</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0456.706</article>
+    <name>SRL 611-86 XL (вкл. вент-ексц. 3 1/2"+сиф) НОВИЙ</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">9152</price>
+    <price_eur currency="EUR">176</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0716.714</article>
+    <name>SKL 611-62/50 (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">4472</price>
+    <price_eur currency="EUR">86</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0716.715</article>
+    <name>SKL 611-78/50 (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">5044</price>
+    <price_eur currency="EUR">97</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>101.0716.716</article>
+    <name>SKL 611-78 XL (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">5356</price>
+    <price_eur currency="EUR">103</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0204.647</article>
+    <name>ANX 110-34 (вкл .вент.3½")</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">7332</price>
+    <price_eur currency="EUR">141</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0204.649</article>
+    <name>ANX 110-48 (вкл. вент.3½")</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">8528</price>
+    <price_eur currency="EUR">164</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0598.646</article>
+    <name>MRX 110-40 (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0598.741</article>
+    <name>MRX 110-50 (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">11544</price>
+    <price_eur currency="EUR">222</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0703.300</article>
+    <name>SRX 110-50 (вкл. вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">8632</price>
+    <price_eur currency="EUR">166</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0719.936</article>
+    <name>MRX 110-70 (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">15548</price>
+    <price_eur currency="EUR">299</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0739.540</article>
+    <name>SRX 110-34 (вкл. вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">5668</price>
+    <price_eur currency="EUR">109</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0739.591</article>
+    <name>SRX 110-40 (вкл. вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">6188</price>
+    <price_eur currency="EUR">119</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0739.592</article>
+    <name>SRX 110-45 (вкл. вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">6708</price>
+    <price_eur currency="EUR">129</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0739.593</article>
+    <name>SRX 160 (вкл. вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">13988</price>
+    <price_eur currency="EUR">269</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0739.594</article>
+    <name>SRX 120 (вкл. вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">13988</price>
+    <price_eur currency="EUR">269</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>122.0763.945</article>
+    <name>Набір "Мийка MRX 110-50 нерж. сталь і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0598.745</article>
+    <name>MRX 210-40 (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">12428</price>
+    <price_eur currency="EUR">239</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0598.747</article>
+    <name>MRX 210-50 (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">13676</price>
+    <price_eur currency="EUR">263</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0598.748</article>
+    <name>MRX 210-40 TL (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">14196</price>
+    <price_eur currency="EUR">273</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0598.750</article>
+    <name>MRX 210-50 TL (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">15496</price>
+    <price_eur currency="EUR">298</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0703.298</article>
+    <name>SRX 210-40 TL (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">8268</price>
+    <price_eur currency="EUR">159</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0703.299</article>
+    <name>SRX 210-50 TL (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0719.938</article>
+    <name>MRX 210-70 (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">17628</price>
+    <price_eur currency="EUR">339</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0719.940</article>
+    <name>MRX 210-70 TL (вкл.вент 3 1/2" + сиф.)</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">18668</price>
+    <price_eur currency="EUR">359</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0763.946</article>
+    <name>Набір "Мийка SRX 210-50 TL нерж. сталь і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">14248</price>
+    <price_eur currency="EUR">274</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>127.0763.947</article>
+    <name>Набір "Мийка SRX 210-40 TL нерж. сталь і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">13728</price>
+    <price_eur currency="EUR">264</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>5290654</article>
+    <name>AMX 160 (вкл. вент. 3½")</name>
+    <group>01_Sinks SS</group>
+    <price currency="UAH">15600</price>
+    <price_eur currency="EUR">300</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>114.0251.445</article>
+    <name>ROG 611-62, бежевий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7124</price>
+    <price_eur currency="EUR">137</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0254.780</article>
+    <name>ROG 611, бежевий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7384</price>
+    <price_eur currency="EUR">142</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0258.031</article>
+    <name>BFG 611-78, сахара (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0258.039</article>
+    <name>BFG 611-78, бежевий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0258.040</article>
+    <name>BFG 611-78, онікс (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0258.042</article>
+    <name>BFG 611-78, білий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.580</article>
+    <name>BFG 611-62, онікс (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.595</article>
+    <name>BFG 611-62, бежевий (вкл. вент. 3 1/2" +сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.596</article>
+    <name>BFG 611-62, сахара (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.599</article>
+    <name>BFG 611-62, білий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.602</article>
+    <name>BFG 651-78, білий (вкл. вент.3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.603</article>
+    <name>BFG 651-78, онікс (вкл. вент.3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.633</article>
+    <name>BFG 651-78, бежевий (вкл. вент.3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0272.634</article>
+    <name>BFG 651-78, сахара (вкл. вент.3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0306.793</article>
+    <name>BFG 611-78, мигдаль (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0306.795</article>
+    <name>BFG 611-62, мигдаль (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0306.815</article>
+    <name>MRG 611, онікс  (вкл. вент. 3 1/2" +сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9516</price>
+    <price_eur currency="EUR">183</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0363.932</article>
+    <name>BFG 611-97, бежевий (вкл. вент. 3 1/2" і сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11492</price>
+    <price_eur currency="EUR">221</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0363.933</article>
+    <name>BFG 611-97, онікс (вкл. вент. 3 1/2" і сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11492</price>
+    <price_eur currency="EUR">221</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0363.940</article>
+    <name>BFG 620, онікс (вкл. вент. 3 1/2" і сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11908</price>
+    <price_eur currency="EUR">229</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0375.036</article>
+    <name>BSG 611-78, бежевий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0375.041</article>
+    <name>BSG 611-78, онікс (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0375.045</article>
+    <name>BSG 611-62, бежевий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7800</price>
+    <price_eur currency="EUR">150</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0375.050</article>
+    <name>BSG 611-62, онікс (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7800</price>
+    <price_eur currency="EUR">150</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0381.002</article>
+    <name>MRG 611-62, білий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8377</price>
+    <price_eur currency="EUR">161</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0381.006</article>
+    <name>MRG 611-62, онікс (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8377</price>
+    <price_eur currency="EUR">161</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0381.007</article>
+    <name>MRG 611-62, сахара (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8377</price>
+    <price_eur currency="EUR">161</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0381.015</article>
+    <name>MRG 651-78, онікс (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10670</price>
+    <price_eur currency="EUR">205</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0381.072</article>
+    <name>ROG 611-62, онікс  (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7124</price>
+    <price_eur currency="EUR">137</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0497.988</article>
+    <name>SID 610-40, чорний (вкл. вент.3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7020</price>
+    <price_eur currency="EUR">135</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0498.008</article>
+    <name>OID 611-62, чорний (вкл. вент-ексц. 3½" + сиф.)  НОВИЙ 2 отвори</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6292</price>
+    <price_eur currency="EUR">121</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0498.031</article>
+    <name>OID 611-78, чорний (вкл. вент-ексц. 3½" + сиф.)  НОВИЙ 2 отвори</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6656</price>
+    <price_eur currency="EUR">128</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0499.223</article>
+    <name>AZG 661-E, онікс (вкл. вент. 3 1/2" + сиф. + коландер)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">14560</price>
+    <price_eur currency="EUR">280</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0565.087</article>
+    <name>BFG 611-78, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0565.090</article>
+    <name>BFG 611-62, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0565.111</article>
+    <name>BFG 651-78, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0565.115</article>
+    <name>MRG 611-62, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8377</price>
+    <price_eur currency="EUR">161</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0565.117</article>
+    <name>MRG 611, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9516</price>
+    <price_eur currency="EUR">183</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0565.124</article>
+    <name>MRG 651-78, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10660</price>
+    <price_eur currency="EUR">205</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0575.041</article>
+    <name>BSG 611-78, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0575.042</article>
+    <name>BSG 611-62, сірий камінь (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7800</price>
+    <price_eur currency="EUR">150</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.449</article>
+    <name>CNG 611-62 TL, білий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.450</article>
+    <name>CNG 611-62 TL, чорний матовий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.451</article>
+    <name>CNG 611-62 TL, бежевий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.453</article>
+    <name>CNG 611-62 TL, сірий камінь, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.455</article>
+    <name>CNG 611-62 TL, онікс, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.457</article>
+    <name>CNG 611-62 TL, білий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.458</article>
+    <name>CNG 611-62 TL, чорний матовий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.459</article>
+    <name>CNG 611-62 TL, бежевий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.461</article>
+    <name>CNG 611-62 TL, сірий камінь, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.463</article>
+    <name>CNG 611-62 TL, онікс, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.465</article>
+    <name>CNG 611-78 TL, білий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.466</article>
+    <name>CNG 611-78 TL, чорний матовий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.467</article>
+    <name>CNG 611-78 TL, бежевий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.469</article>
+    <name>CNG 611-78 TL, сірий камінь, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.471</article>
+    <name>CNG 611-78 TL, онікс, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.473</article>
+    <name>CNG 611-78 TL, білий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.474</article>
+    <name>CNG 611-78 TL, чорний матовий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.475</article>
+    <name>CNG 611-78 TL, бежевий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.477</article>
+    <name>CNG 611-78 TL, сірий камінь, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0630.479</article>
+    <name>CNG 611-78 TL, онікс, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0631.437</article>
+    <name>MRG 611-62, чорний матовий (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8377</price>
+    <price_eur currency="EUR">161</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0631.439</article>
+    <name>MRG 611, чорний матовий (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9516</price>
+    <price_eur currency="EUR">183</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0631.461</article>
+    <name>MRG 651-78, чорний матовий (вкл. вент. 3 1/2"+ сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10670</price>
+    <price_eur currency="EUR">205</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0667.446</article>
+    <name>BFG 611-78, чорний матовий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0667.447</article>
+    <name>BFG 611-62, чорний матовий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0667.448</article>
+    <name>BFG 651-78, чорний матовий (вкл. вент.3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0667.450</article>
+    <name>BSG 611-62, чорний матовий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7800</price>
+    <price_eur currency="EUR">150</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.599</article>
+    <name>ROG 611, онікс (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7384</price>
+    <price_eur currency="EUR">142</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.817</article>
+    <name>MRG 610-52 TL, бежевий, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.818</article>
+    <name>MRG 610-52 TL, мигдаль, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.819</article>
+    <name>MRG 610-52 TL, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.820</article>
+    <name>MRG 610-52 TL, білий, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.861</article>
+    <name>MRG 610-37 TL, онікс, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9620</price>
+    <price_eur currency="EUR">185</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.862</article>
+    <name>MRG 610-37 TL, сірий камінь, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9620</price>
+    <price_eur currency="EUR">185</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.863</article>
+    <name>MRG 610-37 TL, бежевий, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9620</price>
+    <price_eur currency="EUR">185</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.864</article>
+    <name>MRG 610-37 TL, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9620</price>
+    <price_eur currency="EUR">185</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.865</article>
+    <name>MRG 610-37 TL, білий, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9620</price>
+    <price_eur currency="EUR">185</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.866</article>
+    <name>MRG 610-37 TL, сахара, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9620</price>
+    <price_eur currency="EUR">185</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.867</article>
+    <name>MRG 610-52 TL, онікс, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.868</article>
+    <name>MRG 610-52 TL, сірий камінь, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0668.901</article>
+    <name>MRG 610-52 TL, сахара, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0691.534</article>
+    <name>BSG 611-78, чорний матовий (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.230</article>
+    <name>MRG 610-37 TL Black Edition, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сиф. і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10920</price>
+    <price_eur currency="EUR">210</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.231</article>
+    <name>MRG 610-52 TL Black Edition, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сиф. і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12376</price>
+    <price_eur currency="EUR">238</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.232</article>
+    <name>UBG 611-100 XL Black Edition, чорний матовий  (вкл. вент. 3 1/2" + сиф.+коландер)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12688</price>
+    <price_eur currency="EUR">244</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.233</article>
+    <name>UBG 611-78 XL Black Edition, чорний матовий  (вкл. вент. 3 1/2" + сиф.+коландер)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12168</price>
+    <price_eur currency="EUR">234</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.234</article>
+    <name>UBG 611-78 Black Edition, чорний матовий  (вкл. вент. 3 1/2" + сиф.+коландер)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.235</article>
+    <name>UBG 611-62 Black Edition, чорний матовий  (вкл. вент. 3 1/2" + сиф.+коландер)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.236</article>
+    <name>UBG 610-56 Black Edition, чорний матовий (вкл. вент. 3 1/2" + сиф.+коландер)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.237</article>
+    <name>UBG 620-78 Black Edition, чорний матовий (вкл. вент. 3 1/2" + сиф.+коландер)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">13312</price>
+    <price_eur currency="EUR">256</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.238</article>
+    <name>CNG 611-78 TL Black Edition, чорний матовий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12168</price>
+    <price_eur currency="EUR">234</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.239</article>
+    <name>CNG 611-78 TL Black Edition, чорний матовий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12168</price>
+    <price_eur currency="EUR">234</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.240</article>
+    <name>CNG 611-62 TL Black Edition, чорний матовий, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10660</price>
+    <price_eur currency="EUR">205</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0699.242</article>
+    <name>CNG 611-62 TL Black Edition, чорний матовий, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10660</price>
+    <price_eur currency="EUR">205</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.786</article>
+    <name>UBG 610-56, онікс (вкл. вент. 3 1/2" + сифон+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11128</price>
+    <price_eur currency="EUR">214</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.787</article>
+    <name>UBG 610-56, чорний матовий (вкл. вент. 3 1/2" + сифон+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11128</price>
+    <price_eur currency="EUR">214</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.788</article>
+    <name>UBG 610-56, сірий камінь (вкл. вент. 3 1/2" + сифон+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11128</price>
+    <price_eur currency="EUR">214</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.789</article>
+    <name>UBG 610-56, бежевий (вкл. вент. 3 1/2" + сифон+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11128</price>
+    <price_eur currency="EUR">214</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.790</article>
+    <name>UBG 620-78, онікс (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12792</price>
+    <price_eur currency="EUR">246</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.791</article>
+    <name>UBG 620-78, чорний матовий (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12792</price>
+    <price_eur currency="EUR">246</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.792</article>
+    <name>UBG 611-100 XL, онікс (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12168</price>
+    <price_eur currency="EUR">234</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.795</article>
+    <name>UBG 611-100 XL, сірий камінь (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12168</price>
+    <price_eur currency="EUR">234</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>114.0701.796</article>
+    <name>UBG 611-100 XL, чорний матовий (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12168</price>
+    <price_eur currency="EUR">234</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.797</article>
+    <name>UBG 611-78 XL, сахара (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.798</article>
+    <name>UBG 611-78 XL, бежевий (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.799</article>
+    <name>UBG 611-78 XL, онікс (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.800</article>
+    <name>UBG 611-78 XL, мигдаль (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.801</article>
+    <name>UBG 611-78 XL, білий (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.802</article>
+    <name>UBG 611-78 XL, сірий камінь (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.803</article>
+    <name>UBG 611-78 XL, чорний матовий (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.804</article>
+    <name>UBG 611-78, онікс (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11076</price>
+    <price_eur currency="EUR">213</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.805</article>
+    <name>UBG 611-78, сірий камінь (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11076</price>
+    <price_eur currency="EUR">213</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.806</article>
+    <name>UBG 611-78, чорний матовий (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11076</price>
+    <price_eur currency="EUR">213</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.807</article>
+    <name>UBG 611-62, онікс (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.808</article>
+    <name>UBG 611-62, сірий камінь (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.809</article>
+    <name>UBG 611-62, чорний матовий (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.816</article>
+    <name>CNG 611-78 XL, чорний матовий, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.817</article>
+    <name>CNG 611-78 XL, бежевий, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.818</article>
+    <name>CNG 611-78 XL, сірий камінь, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.819</article>
+    <name>CNG 611-78 XL, онікс, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.820</article>
+    <name>CNG 611-86, чорний матовий, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12272</price>
+    <price_eur currency="EUR">236</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.821</article>
+    <name>CNG 611-86, бежевий, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12272</price>
+    <price_eur currency="EUR">236</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.822</article>
+    <name>CNG 611-86, сірий камінь, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12272</price>
+    <price_eur currency="EUR">236</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0701.823</article>
+    <name>CNG 611-86, онікс, оборотна (вкл. вент. 3 1/2" + сиф.), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12272</price>
+    <price_eur currency="EUR">236</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.703</article>
+    <name>MRG 610-37 TL, сірий сланець, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9620</price>
+    <price_eur currency="EUR">185</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.704</article>
+    <name>MRG 610-52 TL, сірий сланець, врізний монтаж (вкл. вент. 3 1/2", сиф. і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11596</price>
+    <price_eur currency="EUR">223</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.705</article>
+    <name>UBG 610-56, сірий сланець (вкл. вент. 3 1/2" + сифон+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11128</price>
+    <price_eur currency="EUR">214</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.706</article>
+    <name>UBG 611-78 XL, сірий сланець (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.707</article>
+    <name>UBG 611-78, сірий сланець (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11076</price>
+    <price_eur currency="EUR">213</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.708</article>
+    <name>UBG 611-62, сірий сланець (вкл. вент. 3 1/2" + сиф.+коландер), кліпси</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.709</article>
+    <name>CNG 611-78 TL, сірий сланець, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.710</article>
+    <name>CNG 611-78 TL, сірий сланець, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11648</price>
+    <price_eur currency="EUR">224</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.711</article>
+    <name>CNG 611-62 TL, сірий сланець, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0716.712</article>
+    <name>CNG 611-62 TL, сірий сланець, крило праворуч (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10140</price>
+    <price_eur currency="EUR">195</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.001</article>
+    <name>BFG 651, бежевий, (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12428</price>
+    <price_eur currency="EUR">239</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.002</article>
+    <name>BFG 651, онікс, (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12428</price>
+    <price_eur currency="EUR">239</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.003</article>
+    <name>MRG 610-72 TL, онікс, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">13988</price>
+    <price_eur currency="EUR">269</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.004</article>
+    <name>MRG 610-72 TL, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">13988</price>
+    <price_eur currency="EUR">269</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.005</article>
+    <name>MRG 610-72 TL, сірий камінь, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">13988</price>
+    <price_eur currency="EUR">269</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.006</article>
+    <name>MRG 610-72 TL, білий, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">13988</price>
+    <price_eur currency="EUR">269</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.007</article>
+    <name>MRG 610-72 TL Black Edition, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">14820</price>
+    <price_eur currency="EUR">285</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.008</article>
+    <name>MRG 620 TL, онікс, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">14508</price>
+    <price_eur currency="EUR">279</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.009</article>
+    <name>MRG 620 TL, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">14508</price>
+    <price_eur currency="EUR">279</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.010</article>
+    <name>MRG 620 TL Black Edition, чорний матовий, врізний монтаж (вкл. вент. 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">15548</price>
+    <price_eur currency="EUR">299</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.011</article>
+    <name>MRG 620 TL, сірий камінь, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">14508</price>
+    <price_eur currency="EUR">279</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0720.012</article>
+    <name>MRG 620 TL, білий, врізний монтаж (вкл. вент. 3 1/2", сифон і декоративну кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">14508</price>
+    <price_eur currency="EUR">279</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0743.174</article>
+    <name>BFG 611-78, сірий сланець (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0743.175</article>
+    <name>BFG 611-62, сірий сланець (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0743.176</article>
+    <name>BSG 611-62, сірий сланець (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7800</price>
+    <price_eur currency="EUR">150</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0743.177</article>
+    <name>BSG 611-78, сірий сланець (вкл. вент. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.937</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт бежевий і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.938</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт білий і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.939</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт мигдаль і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.940</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт онікс і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.941</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт сахара і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.942</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт сірий камінь і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.943</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт сірий сланець і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>114.0763.944</article>
+    <name>Набір "Мийка MRG 610-52 TL, Фраграніт чорний матовий і подрібн. харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0395.602</article>
+    <name>SID 110-50, чорний (вкл. вент-ексц. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9412</price>
+    <price_eur currency="EUR">181</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0395.608</article>
+    <name>SID 110-50, білий (вкл. вент-ексц. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9412</price>
+    <price_eur currency="EUR">181</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0699.225</article>
+    <name>MRG 110-37 Black Edition, чорний матовий, мон. під стільн. (вкл. вент.авт 3 1/2", сиф. і дек.кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11180</price>
+    <price_eur currency="EUR">215</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0699.228</article>
+    <name>MRG 110-52 Black Edition, чорний матовий, мон. під стільн. (вкл. вент.авт 3 1/2", сиф. і дек.кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12532</price>
+    <price_eur currency="EUR">241</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0699.229</article>
+    <name>MRG 160 Black Edition, чорний матовий, мон під стільницю (вкл. вент.авт 3 1/2", сиф. і 2 дек кришки)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">13780</price>
+    <price_eur currency="EUR">265</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.772</article>
+    <name>MRG 110-37, онікс, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.773</article>
+    <name>MRG 110-37, сірий камінь, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.774</article>
+    <name>MRG 110-37, чорний матовий, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.775</article>
+    <name>MRG 110-37, білий, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.776</article>
+    <name>MRG 110-52, онікс, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11752</price>
+    <price_eur currency="EUR">226</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.777</article>
+    <name>MRG 110-52, сірий камінь, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11752</price>
+    <price_eur currency="EUR">226</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.778</article>
+    <name>MRG 110-52, мигдаль, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11752</price>
+    <price_eur currency="EUR">226</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.779</article>
+    <name>MRG 110-52, чорний матовий, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11752</price>
+    <price_eur currency="EUR">226</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.780</article>
+    <name>MRG 110-52, білий, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11752</price>
+    <price_eur currency="EUR">226</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.781</article>
+    <name>MRG 110-52, сахара, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11752</price>
+    <price_eur currency="EUR">226</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.782</article>
+    <name>MRG 160, онікс, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і 2 дек. кришки)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12480</price>
+    <price_eur currency="EUR">240</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.783</article>
+    <name>MRG 160, сірий камінь, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і 2 дек. кришки)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12480</price>
+    <price_eur currency="EUR">240</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.784</article>
+    <name>MRG 160, чорний матовий, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і 2 дек. кришки)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12480</price>
+    <price_eur currency="EUR">240</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0701.785</article>
+    <name>MRG 160, білий, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і 2 дек. кришки)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">12480</price>
+    <price_eur currency="EUR">240</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0716.701</article>
+    <name>MRG 110-37, сірий сланець, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0716.702</article>
+    <name>MRG 110-52, сірий сланець, монтаж під стільницю (вкл. вент.автомат 3 1/2", сифон і дек. кришку)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11752</price>
+    <price_eur currency="EUR">226</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0763.920</article>
+    <name>Набір "Мийка MRG 110-52, Фраграніт білий і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0763.931</article>
+    <name>Набір "Мийка MRG 110-52, Фраграніт мигдаль і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0763.932</article>
+    <name>Набір "Мийка MRG 110-52, Фраграніт онікс і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0763.933</article>
+    <name>Набір "Мийка MRG 110-52, Фраграніт сахара і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0763.934</article>
+    <name>Набір "Мийка MRG 110-52, Фраграніт сірий камінь і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0763.935</article>
+    <name>Набір "Мийка MRG 110-52, Фраграніт сірий сланець і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>125.0763.936</article>
+    <name>Набір "Мийка MRG 110-52, Фраграніт чорний матовий і подрібнювач харч. відходів SLIM 50, вкл. сифон" - НОВИНКА</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">17004</price>
+    <price_eur currency="EUR">327</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0621.190</article>
+    <name>S2D 611-78, чорний (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6968</price>
+    <price_eur currency="EUR">134</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0621.332</article>
+    <name>S2D 611-78, білий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6968</price>
+    <price_eur currency="EUR">134</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0621.334</article>
+    <name>S2D 611-78, сірий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6968</price>
+    <price_eur currency="EUR">134</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0621.335</article>
+    <name>S2D 611-78 XL, чорний (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7072</price>
+    <price_eur currency="EUR">136</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0621.338</article>
+    <name>S2D 611-78 XL, білий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7072</price>
+    <price_eur currency="EUR">136</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0621.339</article>
+    <name>S2D 611-78 XL, сірий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7072</price>
+    <price_eur currency="EUR">136</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0627.288</article>
+    <name>S2D 611-62, чорний (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6708</price>
+    <price_eur currency="EUR">129</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0627.382</article>
+    <name>S2D 611-62, білий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6708</price>
+    <price_eur currency="EUR">129</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0627.383</article>
+    <name>S2D 611-62, сірий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6708</price>
+    <price_eur currency="EUR">129</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0671.742</article>
+    <name>S2D 611-62, бежевий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6708</price>
+    <price_eur currency="EUR">129</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0671.744</article>
+    <name>S2D 611-78, бежевий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6968</price>
+    <price_eur currency="EUR">134</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0671.747</article>
+    <name>S2D 611-78 XL, бежевий (вкл. вент-ексц. 3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7072</price>
+    <price_eur currency="EUR">136</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0671.748</article>
+    <name>SID 610-40, бежевий (вкл. вент.3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">7020</price>
+    <price_eur currency="EUR">135</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0671.749</article>
+    <name>OID 611-78, бежевий (вкл. вент-ексц. 3½" + сиф.)  НОВИЙ 2 отвори</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6656</price>
+    <price_eur currency="EUR">128</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0671.750</article>
+    <name>OID 611-62, бежевий (вкл. вент-ексц. 3½" + сиф.)  НОВИЙ 2 отвори</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">6292</price>
+    <price_eur currency="EUR">121</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0691.510</article>
+    <name>SID 610-50, білий (вкл. вент.3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8320</price>
+    <price_eur currency="EUR">160</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0691.531</article>
+    <name>SID 610-50, сірий (вкл. вент.3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8320</price>
+    <price_eur currency="EUR">160</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0691.532</article>
+    <name>SID 610-50, бежевий (вкл. вент.3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8320</price>
+    <price_eur currency="EUR">160</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>143.0691.533</article>
+    <name>SID 610-50, чорний (вкл. вент.3½" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8320</price>
+    <price_eur currency="EUR">160</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>144.0649.548</article>
+    <name>SID 110-34, чорний (вкл. вент-ексц. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">8476</price>
+    <price_eur currency="EUR">163</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>144.0649.561</article>
+    <name>SID 110-50, cірий (вкл. вент-ексц. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">9412</price>
+    <price_eur currency="EUR">181</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>144.0649.563</article>
+    <name>SID 160, чорний  (вкл. вент-ексц. 3 1/2" + сиф.)</name>
+    <group>02_Sinks Synthetic</group>
+    <price currency="UAH">11076</price>
+    <price_eur currency="EUR">213</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>737292</article>
+    <name>Old England змішувач, латунь-оптик</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9152</price>
+    <price_eur currency="EUR">176</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0347.111</article>
+    <name>Novara-Plus змішувач з виносним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5044</price>
+    <price_eur currency="EUR">97</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0347.142</article>
+    <name>Novara-Plus змішувач, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">3224</price>
+    <price_eur currency="EUR">62</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.653</article>
+    <name>Novara-Plus змішувач, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">3536</price>
+    <price_eur currency="EUR">68</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.654</article>
+    <name>Novara-Plus змішувач, бежевий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">3536</price>
+    <price_eur currency="EUR">68</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.655</article>
+    <name>Novara-Plus змішувач, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">3536</price>
+    <price_eur currency="EUR">68</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.658</article>
+    <name>Novara-Plus змішувач, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">3536</price>
+    <price_eur currency="EUR">68</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.659</article>
+    <name>Novara-Plus змішувач, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">3536</price>
+    <price_eur currency="EUR">68</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.661</article>
+    <name>Novara-Plus змішувач, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">3536</price>
+    <price_eur currency="EUR">68</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.663</article>
+    <name>Novara-Plus змішувач з виносним виливом, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5564</price>
+    <price_eur currency="EUR">107</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.665</article>
+    <name>Novara-Plus змішувач з виносним виливом, бежевий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5564</price>
+    <price_eur currency="EUR">107</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.666</article>
+    <name>Novara-Plus змішувач з виносним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5564</price>
+    <price_eur currency="EUR">107</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.669</article>
+    <name>Novara-Plus змішувач з виносним виливом, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5564</price>
+    <price_eur currency="EUR">107</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.670</article>
+    <name>Novara-Plus змішувач з виносним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5564</price>
+    <price_eur currency="EUR">107</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0470.675</article>
+    <name>Novara-Plus змішувач з виносним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5564</price>
+    <price_eur currency="EUR">107</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0529.202</article>
+    <name>Eos Neo U (Kubus) змішувач, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10088</price>
+    <price_eur currency="EUR">194</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0529.207</article>
+    <name>Eos Neo U Pull Down (Kubus Pull Out) змішувач з виносним виливом, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">14508</price>
+    <price_eur currency="EUR">279</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0569.290</article>
+    <name>Orbit змішувач, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">8528</price>
+    <price_eur currency="EUR">164</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0569.461</article>
+    <name>Orbit Pull Out змішувач з виносним виливом, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0590.046</article>
+    <name>Atlas Neo J (Leda Neo) змішувач, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10036</price>
+    <price_eur currency="EUR">193</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0590.047</article>
+    <name>Atlas Neo J (Leda Neo Pull Down) змішувач з виносним виливом, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">12220</price>
+    <price_eur currency="EUR">235</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0595.083</article>
+    <name>Urban змішувач з виносним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9568</price>
+    <price_eur currency="EUR">184</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0595.088</article>
+    <name>Urban змішувач з виносним виливом, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">11336</price>
+    <price_eur currency="EUR">218</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0595.089</article>
+    <name>Urban змішувач з виносним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">11336</price>
+    <price_eur currency="EUR">218</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0595.091</article>
+    <name>Urban змішувач з виносним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">11336</price>
+    <price_eur currency="EUR">218</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0595.093</article>
+    <name>Urban змішувач з виносним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">11336</price>
+    <price_eur currency="EUR">218</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0621.592</article>
+    <name>Centro змішувач з виносним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">15340</price>
+    <price_eur currency="EUR">295</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0621.613</article>
+    <name>Centro змішувач, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">13260</price>
+    <price_eur currency="EUR">255</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0623.055</article>
+    <name>Orbit Pull Out змішувач з виносним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5928</price>
+    <price_eur currency="EUR">114</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0623.056</article>
+    <name>Orbit змішувач, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4420</price>
+    <price_eur currency="EUR">85</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0623.057</article>
+    <name>Orbit Pull Out змішувач з виносним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">6500</price>
+    <price_eur currency="EUR">125</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0623.139</article>
+    <name>Orbit Pull Out змішувач з виносним виливом, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">6500</price>
+    <price_eur currency="EUR">125</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0623.140</article>
+    <name>Orbit змішувач, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4420</price>
+    <price_eur currency="EUR">85</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0623.141</article>
+    <name>Orbit Pull Out змішувач з виносним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">6500</price>
+    <price_eur currency="EUR">125</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0623.147</article>
+    <name>Orbit Pull Out змішувач з виносним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">6500</price>
+    <price_eur currency="EUR">125</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.019</article>
+    <name>Lina змішувач з поворотним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.020</article>
+    <name>Lina змішувач з поворотним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.022</article>
+    <name>Lina змішувач з поворотним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.024</article>
+    <name>Lina змішувач з поворотним виливом, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.025</article>
+    <name>Lina змішувач з поворотним виливом, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.026</article>
+    <name>Lina змішувач з поворотним виливом, бежевий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.028</article>
+    <name>Lina змішувач з поворотним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.053</article>
+    <name>Lina змішувач з виносним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.055</article>
+    <name>Lina змішувач з виносним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.057</article>
+    <name>Lina змішувач з виносним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.081</article>
+    <name>Lina змішувач з виносним виливом, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.082</article>
+    <name>Lina змішувач з виносним виливом, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.083</article>
+    <name>Lina змішувач з виносним виливом, бежевий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.084</article>
+    <name>Lina змішувач з виносним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0626.085</article>
+    <name>Lina Semi Pro змішувач з гнучким виливом, хром/чорний -  АКЦІЯ -25% до 30.09.26</name>
+    <group>03_Taps</group>
+    <price currency="UAH">6604</price>
+    <price_eur currency="EUR">127</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0627.523</article>
+    <name>Urban змішувач з виносним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">11336</price>
+    <price_eur currency="EUR">218</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0653.298</article>
+    <name>Active L змішувач, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9308</price>
+    <price_eur currency="EUR">179</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.371</article>
+    <name>Active L змішувач, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">12428</price>
+    <price_eur currency="EUR">239</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.373</article>
+    <name>Active L змішувач, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.374</article>
+    <name>Active L змішувач, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.377</article>
+    <name>Active L змішувач, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.378</article>
+    <name>Active L змішувач, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.379</article>
+    <name>Active L змішувач з виносним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">14508</price>
+    <price_eur currency="EUR">279</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.382</article>
+    <name>Active L змішувач з виносним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">19188</price>
+    <price_eur currency="EUR">369</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.383</article>
+    <name>Active L змішувач з виносним виливом, білий матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">19188</price>
+    <price_eur currency="EUR">369</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0653.384</article>
+    <name>Active L змішувач з виносним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">18148</price>
+    <price_eur currency="EUR">349</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.385</article>
+    <name>Active L змішувач з виносним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">18148</price>
+    <price_eur currency="EUR">349</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.388</article>
+    <name>Active L змішувач з виносним виливом, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">18148</price>
+    <price_eur currency="EUR">349</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.389</article>
+    <name>Active L змішувач з виносним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">18148</price>
+    <price_eur currency="EUR">349</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.395</article>
+    <name>Active J змішувач, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.398</article>
+    <name>Active J змішувач, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">12948</price>
+    <price_eur currency="EUR">249</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.401</article>
+    <name>Active J змішувач з виносним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">16588</price>
+    <price_eur currency="EUR">319</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0653.404</article>
+    <name>Active J змішувач з виносним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">18668</price>
+    <price_eur currency="EUR">359</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0693.230</article>
+    <name>Lina L Shape змішувач з поворотним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">6240</price>
+    <price_eur currency="EUR">120</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0693.393</article>
+    <name>Lina L Shape змішувач з поворотним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0706.985</article>
+    <name>Smart Glenda змішувач, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0706.986</article>
+    <name>Smart Glenda змішувач з витяжним виливом, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10868</price>
+    <price_eur currency="EUR">209</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0711.724</article>
+    <name>Neptune Evo змішувач, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>115.0712.420</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7748</price>
+    <price_eur currency="EUR">149</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0712.435</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0721.463</article>
+    <name>Active L змішувач, сірий сланець</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0721.464</article>
+    <name>Active L змішувач з виносним виливом, сірий сланець</name>
+    <group>03_Taps</group>
+    <price currency="UAH">18148</price>
+    <price_eur currency="EUR">349</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0725.838</article>
+    <name>Lina Semi Pro змішувач з гнучким виливом, чорний матовий - АКЦІЯ -25% до 30.09.26</name>
+    <group>03_Taps</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.384</article>
+    <name>Maris Slim J змішувач з поворотним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7748</price>
+    <price_eur currency="EUR">149</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.386</article>
+    <name>Maris Slim J змішувач з поворотним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.388</article>
+    <name>Maris Slim J Pull Down змішувач з витяжним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10868</price>
+    <price_eur currency="EUR">209</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.389</article>
+    <name>Maris Slim J Pull Down змішувач з витяжним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">15548</price>
+    <price_eur currency="EUR">299</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.395</article>
+    <name>Maris Slim Semi Pro змішувач з гнучким виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">15028</price>
+    <price_eur currency="EUR">289</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.396</article>
+    <name>Maris Slim Semi Pro змішувач з гнучким виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">17628</price>
+    <price_eur currency="EUR">339</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.473</article>
+    <name>Lina U Shape змішувач з поворотним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7748</price>
+    <price_eur currency="EUR">149</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.474</article>
+    <name>Lina U Shape змішувач з поворотним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9100</price>
+    <price_eur currency="EUR">175</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.476</article>
+    <name>Lina U Shape Pull Down змішувач з витяжним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9308</price>
+    <price_eur currency="EUR">179</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.477</article>
+    <name>Lina U Shape Pull Down змішувач з витяжним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">11180</price>
+    <price_eur currency="EUR">215</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.478</article>
+    <name>Lina L Shape змішувач з поворотним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.479</article>
+    <name>Lina L Shape змішувач з поворотним виливом, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.480</article>
+    <name>Lina L Shape змішувач з поворотним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.481</article>
+    <name>Lina L Shape змішувач з поворотним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.482</article>
+    <name>Lina L Shape змішувач з поворотним виливом, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.483</article>
+    <name>Lina L Shape змішувач з поворотним виливом, бежевий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.484</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, онікс</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.485</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, білий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.486</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, сірий камінь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.487</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, мигдаль</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.488</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, сахара</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0728.489</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, бежевий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0733.714</article>
+    <name>Lina L Shape змішувач з поворотним виливом, сірий сланець</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7280</price>
+    <price_eur currency="EUR">140</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0733.716</article>
+    <name>Lina L Shape Pull Out змішувач з витяжним виливом, сірий сланець</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9828</price>
+    <price_eur currency="EUR">189</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0747.473</article>
+    <name>Smart Glenda J змішувач з поворотним виливом, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0747.474</article>
+    <name>Smart Glenda J змішувач з витяжним виливом, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">10868</price>
+    <price_eur currency="EUR">209</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0747.475</article>
+    <name>Smart Glenda Semi Pro змішувач з гнучким виливом, нерж.сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">16068</price>
+    <price_eur currency="EUR">309</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0747.507</article>
+    <name>Lina змішувач з поворотним виливом, сірий сланець</name>
+    <group>03_Taps</group>
+    <price currency="UAH">4056</price>
+    <price_eur currency="EUR">78</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>115.0747.508</article>
+    <name>Lina змішувач з виносним виливом, сірий сланець</name>
+    <group>03_Taps</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0179.978</article>
+    <name>Atlas Clear Water змішувач, нерж.сталь - ЗНИЖКА</name>
+    <group>03_Taps</group>
+    <price currency="UAH">13052</price>
+    <price_eur currency="EUR">251</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0179.979</article>
+    <name>Eos Clear Water змішувач, нерж. Сталь - ЗНИЖКА</name>
+    <group>03_Taps</group>
+    <price currency="UAH">13052</price>
+    <price_eur currency="EUR">251</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0703.742</article>
+    <name>Lina Clear Water, змішувач з поворотним виливом з під'єднанням до фільтру, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">7488</price>
+    <price_eur currency="EUR">144</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>120.0703.746</article>
+    <name>Lina Clear Water, змішувач з поворотним виливом з під'єднанням до фільтру, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">9776</price>
+    <price_eur currency="EUR">188</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>120.0730.779</article>
+    <name>Lina L Clear Water, змішувач з поворотним виливом з під'єднанням до фільтра, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">12948</price>
+    <price_eur currency="EUR">249</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0730.802</article>
+    <name>Lina L Clear Water, змішувач з поворотним виливом з під'єднанням до фільтра, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">15548</price>
+    <price_eur currency="EUR">299</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0730.806</article>
+    <name>Lina J Clear Water, змішувач з поворотним виливом з під'єднанням до фільтра, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">11908</price>
+    <price_eur currency="EUR">229</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0730.807</article>
+    <name>Lina J Clear Water, змішувач з поворотним виливом з під'єднанням до фільтра, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">14508</price>
+    <price_eur currency="EUR">279</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0730.870</article>
+    <name>Maris Slim J Clear Water, змішувач з витяжним виливом з під'єднанням до фільтра, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">18460</price>
+    <price_eur currency="EUR">355</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0730.911</article>
+    <name>Maris Slim J Clear Water, змішувач з витяжним виливом з під'єднанням до фільтра, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">20748</price>
+    <price_eur currency="EUR">399</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0736.601</article>
+    <name>Maris Slim J Clear Water, змішувач з витяжним виливом з під'єднанням до фільтра, PVD золото</name>
+    <group>03_Taps</group>
+    <price currency="UAH">23868</price>
+    <price_eur currency="EUR">459</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0736.602</article>
+    <name>Maris Slim J Clear Water, змішувач з витяжним виливом з під'єднанням до фільтра, PVD мідь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">23868</price>
+    <price_eur currency="EUR">459</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0736.603</article>
+    <name>Maris Slim J Clear Water, змішувач з витяжним виливом з під'єднанням до фільтра, PVD антрацит</name>
+    <group>03_Taps</group>
+    <price currency="UAH">23868</price>
+    <price_eur currency="EUR">459</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0736.604</article>
+    <name>Maris Slim J Clear Water, змішувач з витяжним виливом з під'єднанням до фільтра, сталь</name>
+    <group>03_Taps</group>
+    <price currency="UAH">20748</price>
+    <price_eur currency="EUR">399</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>160.0702.660</article>
+    <name>Lina Clear Water з фільтром, змішувач з поворотним виливом, хром</name>
+    <group>03_Taps</group>
+    <price currency="UAH">13520</price>
+    <price_eur currency="EUR">260</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>160.0702.681</article>
+    <name>Lina Clear Water з фільтром, змішувач з поворотним виливом, чорний матовий</name>
+    <group>03_Taps</group>
+    <price currency="UAH">15600</price>
+    <price_eur currency="EUR">300</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>110.0200.734</article>
+    <name>FTC 612 WHL (Flexa, білий, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">6812</price>
+    <price_eur currency="EUR">131</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>110.0275.345</article>
+    <name>FTC 626L (Maxima, нерж. сталь, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">16900</price>
+    <price_eur currency="EUR">325</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>110.0275.346</article>
+    <name>FTC 926L (Maxima, нерж. сталь, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">19500</price>
+    <price_eur currency="EUR">375</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>305.0599.507</article>
+    <name>FBI 525 XS (Inca Smart, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">6084</price>
+    <price_eur currency="EUR">117</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0599.508</article>
+    <name>FBI 705 XS (Inca Smart, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">6292</price>
+    <price_eur currency="EUR">121</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0599.509</article>
+    <name>FBI 525 XS HCS (Inca Smart, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">6864</price>
+    <price_eur currency="EUR">132</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0599.510</article>
+    <name>FBI 705 XS HCS (Inca Smart, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">7176</price>
+    <price_eur currency="EUR">138</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0599.532</article>
+    <name>FBI 525 GR (Inca Smart, сірий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">4420</price>
+    <price_eur currency="EUR">85</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0599.533</article>
+    <name>FBI 705 GR (Inca Smart, сірий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">4732</price>
+    <price_eur currency="EUR">91</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0599.543</article>
+    <name>FBI 525 PLUS (Inca Smart, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">7956</price>
+    <price_eur currency="EUR">153</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0599.544</article>
+    <name>FBI 705 PLUS (Inca Smart, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">8476</price>
+    <price_eur currency="EUR">163</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0662.834</article>
+    <name>FST DRIP FREE 120 X (Style Drip Free, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">41548</price>
+    <price_eur currency="EUR">799</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0662.835</article>
+    <name>FST DRIP FREE 90 X (Style Drip Free, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">37908</price>
+    <price_eur currency="EUR">729</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0662.836</article>
+    <name>FST DRIP FREE 60 X (Style Drip Free, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">34268</price>
+    <price_eur currency="EUR">659</price_eur>
+    <stock>6</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0665.359</article>
+    <name>FBFE XS A52 (Box Flush Evo, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">17108</price>
+    <price_eur currency="EUR">329</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0665.361</article>
+    <name>FBFE XS A70 (Box Flush Evo, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">18668</price>
+    <price_eur currency="EUR">359</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0665.364</article>
+    <name>FBFE BK MATT A52 (Box Flush Evo, чорний матовий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">17108</price>
+    <price_eur currency="EUR">329</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0665.365</article>
+    <name>FBFE BK MATT A70 (Box Flush Evo, чорний матовий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">18668</price>
+    <price_eur currency="EUR">359</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0665.366</article>
+    <name>FBFE WH MATT A52 (Box Flush Evo, білий матовий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">17108</price>
+    <price_eur currency="EUR">329</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0665.367</article>
+    <name>FBFE WH MATT A70 (Box Flush Evo, білий матовий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">18668</price>
+    <price_eur currency="EUR">359</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0680.919</article>
+    <name>FBI 525 BK (Inca Smart, чорний, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">4628</price>
+    <price_eur currency="EUR">89</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0689.925</article>
+    <name>FBI 705 BK (Inca Smart, чорний, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">5460</price>
+    <price_eur currency="EUR">105</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0702.607</article>
+    <name>FSTS DRIP FREE 90 X (Smart Drip Free, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">32708</price>
+    <price_eur currency="EUR">629</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0702.609</article>
+    <name>FSTS DRIP-FREE 60 X (Smart Drip Free, нерж. сталь, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28548</price>
+    <price_eur currency="EUR">549</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0728.431</article>
+    <name>FBFE BK A70 Basic (Box Flush Basic, чорний, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">12480</price>
+    <price_eur currency="EUR">240</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0729.553</article>
+    <name>FBFE LG A70 Basic (Box Flush Basic, сірий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">12480</price>
+    <price_eur currency="EUR">240</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0729.554</article>
+    <name>FBFE LG A52 Basic (Box Flush Basic, сірий, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">11960</price>
+    <price_eur currency="EUR">230</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0729.555</article>
+    <name>FBFE BK A52 Basic (Box Flush Basic, чорний, вбудована)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">11960</price>
+    <price_eur currency="EUR">230</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0757.777</article>
+    <name>FBI 705 BK HCS (Inca Smart, чорний, вбудована) - НОВИНКА</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">8268</price>
+    <price_eur currency="EUR">159</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0757.778</article>
+    <name>FBI 525 BK HCS (Inca Smart, чорний, вбудована) - НОВИНКА</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">7748</price>
+    <price_eur currency="EUR">149</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0757.779</article>
+    <name>FBI 525 BK PLUS (Inca Smart, чорний, вбудована) - НОВИНКА</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">8788</price>
+    <price_eur currency="EUR">169</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0757.780</article>
+    <name>FBI 705 BK PLUS (Inca Smart, чорний, вбудована) - НОВИНКА</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">9308</price>
+    <price_eur currency="EUR">179</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>315.0489.957</article>
+    <name>FSM 601 WH/GL (Smart Telescopic, біле скло, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">8320</price>
+    <price_eur currency="EUR">160</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>315.0489.958</article>
+    <name>FSM 601 BK/GL (Smart Telescopic, чорне скло, телескопічна) - заміна на 315.0737.227</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">8320</price>
+    <price_eur currency="EUR">160</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>315.0532.375</article>
+    <name>FTC 612 XS LED1 (Flexa, нерж. сталь, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">6812</price>
+    <price_eur currency="EUR">131</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>315.0532.377</article>
+    <name>FTC 912 XS LED1 (Flexa, нерж. сталь, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">9360</price>
+    <price_eur currency="EUR">180</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>315.0547.794</article>
+    <name>FTC 532L GR/XS (Flexa, нерж. сталь, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>315.0547.795</article>
+    <name>FTC 532L WH (Flexa, білий, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>315.0547.796</article>
+    <name>FTC 632L GR/XS (Flexa, нерж. сталь, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">6500</price>
+    <price_eur currency="EUR">125</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>315.0547.797</article>
+    <name>FTC 632L WH (Flexa, білий, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">5304</price>
+    <price_eur currency="EUR">102</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>315.0547.798</article>
+    <name>FTC 632L BK (Flexa, чорний, телескопічна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">6500</price>
+    <price_eur currency="EUR">125</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>315.0737.227</article>
+    <name>FSM 601 BK/GL/2 (Smart Telescopic, чорне скло, телескопічна) - НОВИНКА</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">9308</price>
+    <price_eur currency="EUR">179</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>325.0653.979</article>
+    <name>FSMT 905 XS NG (Smart T-Shape, нерж. сталь, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">20748</price>
+    <price_eur currency="EUR">399</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>330.0528.064</article>
+    <name>FPJ 625 V BK/SS (Evo Plus, чорне скло/нерж. сталь, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">20748</price>
+    <price_eur currency="EUR">399</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>330.0528.067</article>
+    <name>FPJ 925 V BK/SS (Evo Plus, чорне скло/нерж. сталь, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">21788</price>
+    <price_eur currency="EUR">419</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>330.0573.294</article>
+    <name>FPJ 615 V BK/DG A (Smart 2.0, чорне скло, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">16588</price>
+    <price_eur currency="EUR">319</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>330.0573.295</article>
+    <name>FPJ 915 V BK/DG A (Smart 2.0, чорне скло, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">17628</price>
+    <price_eur currency="EUR">339</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>330.0591.773</article>
+    <name>FNO 905 BK (Neo, чорне скло, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">27976</price>
+    <price_eur currency="EUR">538</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>330.0591.778</article>
+    <name>FNO 605 BK (Neo, чорне скло, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">26832</price>
+    <price_eur currency="EUR">516</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>335.0518.748</article>
+    <name>FTU 3805 XS LED0 (Turn, нерж. сталь, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">22412</price>
+    <price_eur currency="EUR">431</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>335.0528.005</article>
+    <name>FSMD 508 WH (Smart Deco, Молочний, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28184</price>
+    <price_eur currency="EUR">542</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>335.0528.006</article>
+    <name>FSMD 508 BK (Smart Deco, Чорний, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28184</price>
+    <price_eur currency="EUR">542</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>335.0530.199</article>
+    <name>FSMD 508 GY (Smart Deco, Світло-сірий, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28184</price>
+    <price_eur currency="EUR">542</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>335.0530.200</article>
+    <name>FSMD 508 GN (Smart Deco, Світло-зелений, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28184</price>
+    <price_eur currency="EUR">542</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>335.0530.201</article>
+    <name>FSMD 508 RS (Smart Deco, Рожевий, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28184</price>
+    <price_eur currency="EUR">542</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>335.0530.202</article>
+    <name>FSMD 508 YL (Smart Deco, Гірчично-жовтий, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28184</price>
+    <price_eur currency="EUR">542</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>335.0530.203</article>
+    <name>FSMD 508 BL (Smart Deco, Блакитний, пристінна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">28184</price>
+    <price_eur currency="EUR">542</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0678.203</article>
+    <name>FSM 709 HI (Smart 2Gether, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">77948</price>
+    <price_eur currency="EUR">1499</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0678.204</article>
+    <name>FSM 709 HI LL KIT (Smart 2Gether, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">88348</price>
+    <price_eur currency="EUR">1699</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0705.229</article>
+    <name>FSM 7081 HI (Smart 2Gether Black Lines, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">88348</price>
+    <price_eur currency="EUR">1699</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0705.338</article>
+    <name>FSM 7081R HI (Smart 2Gether Black Lines, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">98748</price>
+    <price_eur currency="EUR">1899</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0731.878</article>
+    <name>FMA 8372 4RC HI (Maris 2gether Ellipse, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">83148</price>
+    <price_eur currency="EUR">1599</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0731.879</article>
+    <name>FMA 8372 4RC R HI (Maris 2gether Ellipse, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">88348</price>
+    <price_eur currency="EUR">1699</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0731.892</article>
+    <name>FSM 7072 4RC HI (Smart 2Gether Ellipse, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">72748</price>
+    <price_eur currency="EUR">1399</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>340.0731.893</article>
+    <name>FSM 7072 4RC R HI (Smart 2Gether Ellipse, чорний, інд. поверхня + інтегров. витяжка)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">77948</price>
+    <price_eur currency="EUR">1499</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>345.0654.870</article>
+    <name>FSMS F42 SS/BK MATT (Smart Suspended, нерж. сталь/чорний, острівна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">31148</price>
+    <price_eur currency="EUR">599</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>345.0654.932</article>
+    <name>FSMS F42 WH MATT (Smart Suspended, білий матовий, острівна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">31148</price>
+    <price_eur currency="EUR">599</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>345.0654.933</article>
+    <name>FSMS F42 BK MATT (Smart Suspended, чорний матовий, острівна)</name>
+    <group>04A_Franke hoods</group>
+    <price currency="UAH">31148</price>
+    <price_eur currency="EUR">599</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0588.062</article>
+    <name>FABER BI 52 SS 2LS, нержавіюча сталь, вбудована - СУПЕРЗНИЖКА</name>
+    <group>04B_Faber hoods</group>
+    <price currency="UAH">4641</price>
+    <price_eur currency="EUR">89</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>305.0588.063</article>
+    <name>FABER BI 70 SS 2LS, нержавіюча сталь, вбудована - СУПЕРЗНИЖКА</name>
+    <group>04B_Faber hoods</group>
+    <price currency="UAH">5070</price>
+    <price_eur currency="EUR">98</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>330.0567.491</article>
+    <name>FABER VRT BK A60 2LS, чорний, похила - СУПЕРЗНИЖКА</name>
+    <group>04B_Faber hoods</group>
+    <price currency="UAH">5348</price>
+    <price_eur currency="EUR">103</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0554.382</article>
+    <name>FHMA 755 4G DCL XS C, газ.пов. Maris, нержавіюча сталь, 5 конфорок</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">27612</price>
+    <price_eur currency="EUR">531</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0554.391</article>
+    <name>FHSM 604 3G DC XS C, газ.пов. Smart, нерж.ст., 4 конфорки, чавун.решітки</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">19188</price>
+    <price_eur currency="EUR">369</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0554.394</article>
+    <name>FHSM 755 4G DC XS C, газ.пов.Smart, нерж.ст., 5 конфорок, чавун.решітки</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">24024</price>
+    <price_eur currency="EUR">462</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0554.404</article>
+    <name>FHMA 604 3G DC XS C, газ.пов. Maris, нержавіюча сталь, 4 конфорки</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">22308</price>
+    <price_eur currency="EUR">429</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0670.100</article>
+    <name>FHSM 604 4G ON E, газ.пов. Smart, онікс, 4 конфорки, емал.решітки</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">18148</price>
+    <price_eur currency="EUR">349</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0670.111</article>
+    <name>FHSM 755 4G DC ON E, газ.пов. Smart, онікс, 5 конфорок, емал.решітки</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">22724</price>
+    <price_eur currency="EUR">437</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0670.112</article>
+    <name>FHMA 604 3G DC MB C, газ.пов. Maris, чорний матовий, 4 конфорки</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">24492</price>
+    <price_eur currency="EUR">471</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0670.114</article>
+    <name>FHMA 755 4G DCL MB C, газ.пов. Maris, чорний матовий, 5 конфорок</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">29900</price>
+    <price_eur currency="EUR">575</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>106.0734.773</article>
+    <name>FHSM 604 3G DC BK C, газ.пов. Smart, чорний, 4 конфорки, чавун.решітки</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">24388</price>
+    <price_eur currency="EUR">469</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0606.106</article>
+    <name>FSM 302 I BK, інд.пов. Smart, чорне скло, 2 зони приготув.</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">17836</price>
+    <price_eur currency="EUR">343</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0606.107</article>
+    <name>FSM 654 I BK, інд.пов. Smart, чорне скло, 4 зони приготув.</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">21580</price>
+    <price_eur currency="EUR">415</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0606.108</article>
+    <name>FSM 654 I B BK, інд.пов. Smart, чорне скло, 4 зони приготув., Bridge</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">23452</price>
+    <price_eur currency="EUR">451</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0606.110</article>
+    <name>FSM 804 I B BK, інд.пов. Smart, чорне скло, 4 зони приготув., Bridge</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">24700</price>
+    <price_eur currency="EUR">475</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0606.111</article>
+    <name>FMA 654 I F BK, інд.пов. Maris, чорне скло, 4 зони приготув., Flexi</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">27872</price>
+    <price_eur currency="EUR">536</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0606.112</article>
+    <name>FMA 804 I F BK, інд.пов. Maris, чорне скло, 4 зони приготув., Flexi</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">30212</price>
+    <price_eur currency="EUR">581</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0675.410</article>
+    <name>FMA 654 I FP XS, інд.пов. Maris, чорне скло+нерж. сталь, 4 зони приготув., Flexi Pro</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">33488</price>
+    <price_eur currency="EUR">644</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>108.0704.935</article>
+    <name>FMA 654 I F KL BK, інд.пов. Maris, чорне скло, 4 зони приготув., Flexi, K-Link</name>
+    <group>05_Hobs</group>
+    <price currency="UAH">38272</price>
+    <price_eur currency="EUR">736</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0605.987</article>
+    <name>FSM 82 H XS, ел. духовка Smart, нерж. сталь/чорне скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">23816</price>
+    <price_eur currency="EUR">458</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0605.988</article>
+    <name>FSM 86 HE XS, ел. духовка Smart, нерж. сталь/чорне скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">24700</price>
+    <price_eur currency="EUR">475</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0605.990</article>
+    <name>FSM 86 H XS, ел. духовка Smart, нерж. сталь/чорне скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">26572</price>
+    <price_eur currency="EUR">511</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0606.091</article>
+    <name>FSM 86 H BK, ел. духовка Smart, чорне скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">26572</price>
+    <price_eur currency="EUR">511</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0606.093</article>
+    <name>FSM 86 H WH, ел. духовка Smart, біле скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">26572</price>
+    <price_eur currency="EUR">511</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>116.0606.096</article>
+    <name>FSM 97 P XS, ел. духовка Smart, нерж. сталь/чорне скло, 9 функцій, піроліз, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">30888</price>
+    <price_eur currency="EUR">594</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0606.097</article>
+    <name>FMA 86 H XS, ел. духовка Maris, нерж. сталь/чорне скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">33540</price>
+    <price_eur currency="EUR">645</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0606.098</article>
+    <name>FMA 86 H BK, ел. духовка Maris, чорне скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">33540</price>
+    <price_eur currency="EUR">645</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0606.100</article>
+    <name>FMA 97 P XS, ел. духовка Maris, нерж. сталь/чорне скло, 9 функцій, піроліз, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">40976</price>
+    <price_eur currency="EUR">788</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0609.447</article>
+    <name>FSL 86 H BK, ел. духовка Linear, чорний, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">16900</price>
+    <price_eur currency="EUR">325</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>116.0718.940</article>
+    <name>FMA 86 H TBK, ел. духовка Maris, чорне скло, 8 функцій, 71 літр</name>
+    <group>06_Ovens</group>
+    <price currency="UAH">33540</price>
+    <price_eur currency="EUR">645</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>117.0616.305</article>
+    <name>FDW 4510 E8P E посуд.маш., 8 програм, Aquastop</name>
+    <group>07_Dishwashers</group>
+    <price currency="UAH">34580</price>
+    <price_eur currency="EUR">665</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>117.0694.396</article>
+    <name>FDW 614 E5P E, посуд.маш., 5 програм</name>
+    <group>07_Dishwashers</group>
+    <price currency="UAH">30628</price>
+    <price_eur currency="EUR">589</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>131.0391.304</article>
+    <name>FMW 250 CR2 G BK  мікрохв. піч Сrystal, чорне скло</name>
+    <group>09_Appliances Others</group>
+    <price currency="UAH">21736</price>
+    <price_eur currency="EUR">418</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>131.0574.627</article>
+    <name>FMW 20 SMP G XS мікрохв. піч Smart, нерж. сталь/чорний</name>
+    <group>09_Appliances Others</group>
+    <price currency="UAH">17784</price>
+    <price_eur currency="EUR">342</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>131.0627.471</article>
+    <name>FSM 25 MW XS мікрохв. піч Smart, нерж. сталь/чорний</name>
+    <group>09_Appliances Others</group>
+    <price currency="UAH">21736</price>
+    <price_eur currency="EUR">418</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>131.0632.993</article>
+    <name>FSL 20 MW BK мікрохв. піч Smart Linear, чорний</name>
+    <group>09_Appliances Others</group>
+    <price currency="UAH">13520</price>
+    <price_eur currency="EUR">260</price_eur>
+    <stock>8</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0006.456</article>
+    <name>Сифон універсальний з гофрошлангом</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">312</price>
+    <price_eur currency="EUR">6</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0007.715</article>
+    <name>Twister. Засіб для видалення плям з мийок з нержавіючої сталі. 125 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">520</price>
+    <price_eur currency="EUR">10</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0030.882</article>
+    <name>Килимок Rollmat 46,8х42x0,9 см, нерж. сталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">5408</price>
+    <price_eur currency="EUR">104</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0049.409</article>
+    <name>Чашка вентиля для мийок з нержавіючої сталі</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">832</price>
+    <price_eur currency="EUR">16</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0057.214</article>
+    <name>112.0057.214 миска для сушіння, 325 х 150 х 80мм, нерж. (тільки для MRG 651)</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">3068</price>
+    <price_eur currency="EUR">59</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0067.942</article>
+    <name>Фільтр вугільний до Joy, Flexa New, Box New</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">208</price>
+    <price_eur currency="EUR">4</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0174.994</article>
+    <name>Фільтр вугільний тривалого викор-ня до Maris Plus</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">4784</price>
+    <price_eur currency="EUR">92</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0190.628</article>
+    <name>Кріплення для змішувача</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">468</price>
+    <price_eur currency="EUR">9</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>112.0250.014</article>
+    <name>Коландер до BFG (160x300x70мм), нерж.сталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">3328</price>
+    <price_eur currency="EUR">64</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0277.144</article>
+    <name>Набір для з'єднання прямокутного переливу з подрібнювачем</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">624</price>
+    <price_eur currency="EUR">12</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0285.288</article>
+    <name>Кожух до FMA/FMPL, 530–990мм, чорний</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">4524</price>
+    <price_eur currency="EUR">87</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0464.522</article>
+    <name>Коландер до  AZG 661-E, нерж.сталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2808</price>
+    <price_eur currency="EUR">54</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0473.656</article>
+    <name>Фреза-пробійник 35 мм для мийок з Фраграніту та Fraceram</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">520</price>
+    <price_eur currency="EUR">10</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>112.0489.809</article>
+    <name>Додатковий фланець для монтажу в керамічні мийки</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">520</price>
+    <price_eur currency="EUR">10</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0520.497</article>
+    <name>Коландер до MRX, нерж.cталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">8216</price>
+    <price_eur currency="EUR">158</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0530.237</article>
+    <name>Sink Cleaner. Засіб для догляду за мийками з нержавіючої сталі. 200 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">572</price>
+    <price_eur currency="EUR">11</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0530.238</article>
+    <name>Colored Sink Cleaner. Засіб для догляду за мийками з Фраграніту, Тектонайту та Fraceram. 250 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">572</price>
+    <price_eur currency="EUR">11</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0530.239</article>
+    <name>Tap Cleaner. Засіб для догляду за змішувачами. 250 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">572</price>
+    <price_eur currency="EUR">11</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0530.240</article>
+    <name>Cooker Hood Cleaner. Засіб для догляду за витяжками. 250 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">572</price>
+    <price_eur currency="EUR">11</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0530.322</article>
+    <name>Hob Cleaner. Засіб для догляду за варильними поверхнями. 250 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">572</price>
+    <price_eur currency="EUR">11</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0532.169</article>
+    <name>Декоративна кришка вентиля, нержавіюча сталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">416</price>
+    <price_eur currency="EUR">8</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0538.950</article>
+    <name>Коландер до UBG, пластик, сірий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">676</price>
+    <price_eur currency="EUR">13</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0544.161</article>
+    <name>Чашка автоматичного вентиля для мийок з Фраграніту Grey Line, хром</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">884</price>
+    <price_eur currency="EUR">17</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0549.122</article>
+    <name>Кожух до FSMD, нерж.сталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">12636</price>
+    <price_eur currency="EUR">243</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0564.134</article>
+    <name>Чашка автоматичного вентиля для мийок з нерж сталі Grey Line, хром</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">780</price>
+    <price_eur currency="EUR">15</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0564.564</article>
+    <name>Фільтр вугільний до Flexa, Box 2019</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">624</price>
+    <price_eur currency="EUR">12</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0595.334</article>
+    <name>Обробна дошка універсальна для мийок до 500 мм, бук</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">5148</price>
+    <price_eur currency="EUR">99</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0624.354</article>
+    <name>Телескопічні направляючі для духовки об'ємом 71 л</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1248</price>
+    <price_eur currency="EUR">24</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0624.475</article>
+    <name>Сифон для двочашової мийки на одному рівні</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">468</price>
+    <price_eur currency="EUR">9</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0624.484</article>
+    <name>Сифон для двочашової мийки</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">780</price>
+    <price_eur currency="EUR">15</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0636.803</article>
+    <name>Набір для монтажу витяжки FSMS з подовженими тросами (150 см)</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">3588</price>
+    <price_eur currency="EUR">69</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0652.763</article>
+    <name>Comfort дозатор, чорний матовий, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>112.0655.481</article>
+    <name>Набір аксесуарів All In 1</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">5200</price>
+    <price_eur currency="EUR">100</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0655.483</article>
+    <name>Набір аксесуарів All In 3</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">7800</price>
+    <price_eur currency="EUR">150</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0655.488</article>
+    <name>Набір аксесуарів All In 4</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">8320</price>
+    <price_eur currency="EUR">160</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>112.0655.489</article>
+    <name>Набір аксесуарів All In 5</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">10400</price>
+    <price_eur currency="EUR">200</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0656.939</article>
+    <name>Чашка автоматичного вентиля Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1560</price>
+    <price_eur currency="EUR">30</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0657.022</article>
+    <name>Чашка ручного вентиля Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">520</price>
+    <price_eur currency="EUR">10</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0657.146</article>
+    <name>Декоративна кришка вентиля Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1040</price>
+    <price_eur currency="EUR">20</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0657.273</article>
+    <name>Прямокутний перелив Color Line, чорний матовий (заміна - 112.0734.738)</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1040</price>
+    <price_eur currency="EUR">20</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>112.0657.383</article>
+    <name>Ручка керування автоматичним вентилем Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">520</price>
+    <price_eur currency="EUR">10</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0657.421</article>
+    <name>Фланець з вентилем для монтажу подрібнювача харчових відходів Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1560</price>
+    <price_eur currency="EUR">30</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0657.770</article>
+    <name>Подовжувач відводу вентиля з підкл. посудомийної машини</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">260</price>
+    <price_eur currency="EUR">5</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0657.945</article>
+    <name>Круглий перелив Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1040</price>
+    <price_eur currency="EUR">20</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>112.0658.444</article>
+    <name>Вентиль 3½" + декор. кришка, чорний матовий до мийки MRG 110/610</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2548</price>
+    <price_eur currency="EUR">49</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0658.446</article>
+    <name>Вентиль-автомат 3½" + декор. кришка, чорний матовий до мийки MRG 110/610</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">3588</price>
+    <price_eur currency="EUR">69</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0658.484</article>
+    <name>Вентиль 3½" + 2 декор. кришки, чорний матовий до мийки MRG 120/160</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">4108</price>
+    <price_eur currency="EUR">79</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0658.485</article>
+    <name>Вентиль-автомат 3½" + 2 декор. кришки, чорний матовий до мийки MRG 120/160</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">5148</price>
+    <price_eur currency="EUR">99</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0668.276</article>
+    <name>Чашка ручного вентиля в додаткову чашу без виводу під перелив Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">520</price>
+    <price_eur currency="EUR">10</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0670.624</article>
+    <name>Фільтр вугільний до Drip Free 267x237 мм</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">988</price>
+    <price_eur currency="EUR">19</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0670.893</article>
+    <name>Квадратна декоративна кришка вентиля Color Line, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2080</price>
+    <price_eur currency="EUR">40</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0671.845</article>
+    <name>Прямокутний прихований перелив для мийок з нержавючої сталі</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">624</price>
+    <price_eur currency="EUR">12</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0671.891</article>
+    <name>Прямокутний прихований перелив (подовжений) для мийок з Фраграніту і Тектонайту, нерж. сталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">624</price>
+    <price_eur currency="EUR">12</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0674.415</article>
+    <name>Пневмокнопка керування подрібнювачем, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">988</price>
+    <price_eur currency="EUR">19</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0676.783</article>
+    <name>Пульт дистанційного керування для витяжок BT+IR v2</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">4628</price>
+    <price_eur currency="EUR">89</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0679.772</article>
+    <name>Вугільний фільтр багаторазовий тканинний H80</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">3588</price>
+    <price_eur currency="EUR">69</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0679.887</article>
+    <name>Набір для рециркуляції без труб для вар. пов. з витяжкою з відведенням в задню стінку, з фільтром</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0684.123</article>
+    <name>Вугільний фільтр багаторазовий тканинний для 112.0679.887</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2548</price>
+    <price_eur currency="EUR">49</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0711.355</article>
+    <name>Набір труб для відведення повітря назовні для варильних поверхонь з витяжкою</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">9308</price>
+    <price_eur currency="EUR">179</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0711.985</article>
+    <name>Набір труб для рециркуляції для варильних поверхонь з витяжкою (без фільтру, бічне відведення)</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">10348</price>
+    <price_eur currency="EUR">199</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0711.986</article>
+    <name>Набір труб для рециркуляції для варильних поверхонь з витяжкою (без фільтру, фронтальне відведення)</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">12948</price>
+    <price_eur currency="EUR">249</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0716.092</article>
+    <name>Вугільний фільтр багаторазовий для витяжок 2Gether</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">5148</price>
+    <price_eur currency="EUR">99</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0734.738</article>
+    <name>Прямокутний перелив Color Line Slim, чорний матовий</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1040</price>
+    <price_eur currency="EUR">20</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0747.142</article>
+    <name>Коландер для KNG 610 412 x 156,4 x 53,5 мм, нержавіюча сталь</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">3588</price>
+    <price_eur currency="EUR">69</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0753.277</article>
+    <name>Comfort дозатор, повний чорний матовий, 350 мл - НОВИНКА</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>113.0048.569</article>
+    <name>Фреза-пробійник 35 мм для мийок з нерж.сталі</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">3224</price>
+    <price_eur currency="EUR">62</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>119.0578.743</article>
+    <name>Comfort дозатор, онікс, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>119.0578.744</article>
+    <name>Comfort дозатор, сірий камінь, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>119.0578.745</article>
+    <name>Comfort дозатор, бежевий, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>119.0578.746</article>
+    <name>Comfort дозатор, сахара, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>119.0578.748</article>
+    <name>Comfort дозатор, білий, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>119.0578.750</article>
+    <name>Comfort дозатор, мигдаль, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>119.0578.771</article>
+    <name>Comfort дозатор, нерж.сталь оптик, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2288</price>
+    <price_eur currency="EUR">44</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>119.0584.065</article>
+    <name>Comfort дозатор, хром, 350 мл</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1924</price>
+    <price_eur currency="EUR">37</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>133.0730.138</article>
+    <name>Набір кріплень для тонких стільниць для врізних мийок (9+9 шт)</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">1300</price>
+    <price_eur currency="EUR">25</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>133.0730.139</article>
+    <name>Набір кріплень для тонких стільниць для мийок під стільницю (4 шт)</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">988</price>
+    <price_eur currency="EUR">19</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>960 051 000</article>
+    <name>Дошка обробна до Mythos New, скло</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">2652</price>
+    <price_eur currency="EUR">51</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>9925203</article>
+    <name>Комплект вугільних фильтрів (2 шт), стандарт</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">728</price>
+    <price_eur currency="EUR">14</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>9925204</article>
+    <name>Вугільний фільтр прямокутний, стандарт</name>
+    <group>12_Accessories &amp; Soap Dispencers</group>
+    <price currency="UAH">728</price>
+    <price_eur currency="EUR">14</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0278.878</article>
+    <name>Marathon. Очищувач вапняних відкладень з мийок з Фраграніту та Тектонайту, 100 мл</name>
+    <group>15_Consumables</group>
+    <price currency="UAH">572</price>
+    <price_eur currency="EUR">11</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>112.0702.682</article>
+    <name>Змінний картридж до водяного фільтру Clear Water</name>
+    <group>15_Consumables</group>
+    <price currency="UAH">3068</price>
+    <price_eur currency="EUR">59</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>120.0305.558</article>
+    <name>Змінний картридж до водяного фільтру Clear Water Pro M - НОВИНКА</name>
+    <group>15_Consumables</group>
+    <price currency="UAH">5148</price>
+    <price_eur currency="EUR">99</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>150.0730.809</article>
+    <name>Набір для фільтрування води Clear Water S</name>
+    <group>15_Consumables</group>
+    <price currency="UAH">6240</price>
+    <price_eur currency="EUR">120</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>150.0752.886</article>
+    <name>Набір для фільтрування води Clear Water Pro M - НОВИНКА</name>
+    <group>15_Consumables</group>
+    <price currency="UAH">7800</price>
+    <price_eur currency="EUR">150</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0176.518</article>
+    <name>Mini сортер, 17,5л, чорний пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">2028</price>
+    <price_eur currency="EUR">39</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0307.563</article>
+    <name>Pivot сортер, 27л,чорний пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">4784</price>
+    <price_eur currency="EUR">92</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0494.150</article>
+    <name>Easysort 450-1-2 сортер, пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0494.182</article>
+    <name>Easysort 450-2-0 сортер, пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">1976</price>
+    <price_eur currency="EUR">38</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0494.192</article>
+    <name>Easysort 600-3-0 сортер, пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">2704</price>
+    <price_eur currency="EUR">52</price_eur>
+    <stock>7</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0494.193</article>
+    <name>Easysort 600-2-2 сортер, пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">2912</price>
+    <price_eur currency="EUR">56</price_eur>
+    <stock>2</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0557.763</article>
+    <name>FX 60 26-11-11 сортер, пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">16380</price>
+    <price_eur currency="EUR">315</price_eur>
+    <stock>3</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>121.0557.764</article>
+    <name>FX 60 26-26 сортер, пластик</name>
+    <group>21_Sorters</group>
+    <price currency="UAH">16380</price>
+    <price_eur currency="EUR">315</price_eur>
+    <stock>5</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>134.0715.096</article>
+    <name>SLIM 75 подрібнювач харчових відходів, 0,75 к.с.</name>
+    <group>24_Waste Disposers</group>
+    <price currency="UAH">14560</price>
+    <price_eur currency="EUR">280</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>134.0715.098</article>
+    <name>SLIM 50 подрібнювач харчових відходів, 0,5 к.с.</name>
+    <group>24_Waste Disposers</group>
+    <price currency="UAH">10920</price>
+    <price_eur currency="EUR">210</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>133.0026.896</article>
+    <name>Стабілізатор для змішувача для мийок з нерж.сталі</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">780</price>
+    <price_eur currency="EUR">15</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>133.0332.886</article>
+    <name>Запасне сито вентиля Grey Line, хром</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">364</price>
+    <price_eur currency="EUR">7</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>133.0533.532</article>
+    <name>Муфта для зміш./дозатора до UBG, пластик</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">52</price>
+    <price_eur currency="EUR">1</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>133.0537.934</article>
+    <name>Ручка керування автоматичним вентилем Grey Line, хром</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">624</price>
+    <price_eur currency="EUR">12</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>133.0537.940</article>
+    <name>Запасний круглий перелив для мийок з Фраграніту Grey Line, хром</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">572</price>
+    <price_eur currency="EUR">11</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>133.0540.391</article>
+    <name>Запасний прямокутний перелив для мийок з Фраграніту Grey Line, хром</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">624</price>
+    <price_eur currency="EUR">12</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+    <archive>true</archive>
+  </product>
+  <product>
+    <article>133.0573.849</article>
+    <name>Пневмокнопка керування подрібнювачем, сталь</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">988</price>
+    <price_eur currency="EUR">19</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>133.0668.814</article>
+    <name>Фланець для монтажу подрібнювача харчових відходів Color Line, чорний матовий</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">520</price>
+    <price_eur currency="EUR">10</price_eur>
+    <stock>9</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>1988150</article>
+    <name>1988150 Запасний картридж до зміш. серії Old England(0737290) правий/хол.вода</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">2132</price>
+    <price_eur currency="EUR">41</price_eur>
+    <stock>4</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>1988154</article>
+    <name>1988154 Запасний картридж до зміш. серії Old England</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">2236</price>
+    <price_eur currency="EUR">43</price_eur>
+    <stock>під запит</stock>
+    <available>true</available>
+  </product>
+  <product>
+    <article>1988589</article>
+    <name>1988589 Запасний картридж до зміш. серії Old England(0737290) лівий/гаряч.вода</name>
+    <group>33_Spare Parts</group>
+    <price currency="UAH">1560</price>
+    <price_eur currency="EUR">30</price_eur>
+    <stock>1</stock>
+    <available>true</available>
+  </product>
+</catalog>
