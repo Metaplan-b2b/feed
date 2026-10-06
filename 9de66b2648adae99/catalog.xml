@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog supplier="FRANKE" stock_date="29.09.2026" generated="2026-09-29T17:52:53+03:00">
+<catalog supplier="FRANKE" stock_date="05.10.2026" generated="2026-10-06T09:23:20+03:00">
   <product>
     <article>101.0381.806</article>
     <name>LLX 611-79, крило ліворуч (вкл. вент. 3 1/2" + сиф.)</name>
@@ -15,7 +15,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">6448</price>
     <price_eur currency="EUR">124</price_eur>
-    <stock>2</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -24,7 +24,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">7072</price>
     <price_eur currency="EUR">136</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -33,7 +33,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">7072</price>
     <price_eur currency="EUR">136</price_eur>
-    <stock>4</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -87,7 +87,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">9152</price>
     <price_eur currency="EUR">176</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -114,7 +114,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">5356</price>
     <price_eur currency="EUR">103</price_eur>
-    <stock>8</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -177,7 +177,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">5668</price>
     <price_eur currency="EUR">109</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -195,7 +195,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">6708</price>
     <price_eur currency="EUR">129</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -267,7 +267,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">8268</price>
     <price_eur currency="EUR">159</price_eur>
-    <stock>8</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -276,7 +276,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>4</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -303,7 +303,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">14248</price>
     <price_eur currency="EUR">274</price_eur>
-    <stock>4</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -312,7 +312,7 @@
     <group>01_Sinks SS</group>
     <price currency="UAH">13728</price>
     <price_eur currency="EUR">264</price_eur>
-    <stock>8</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -331,7 +331,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7124</price>
     <price_eur currency="EUR">137</price_eur>
-    <stock>1</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -340,7 +340,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7384</price>
     <price_eur currency="EUR">142</price_eur>
-    <stock>під запит</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -367,7 +367,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>під запит</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -376,7 +376,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -394,7 +394,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7488</price>
     <price_eur currency="EUR">144</price_eur>
-    <stock>4</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -412,7 +412,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7488</price>
     <price_eur currency="EUR">144</price_eur>
-    <stock>4</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -457,7 +457,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>під запит</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -484,7 +484,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11492</price>
     <price_eur currency="EUR">221</price_eur>
-    <stock>під запит</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -502,7 +502,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11908</price>
     <price_eur currency="EUR">229</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -511,7 +511,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -520,7 +520,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>5</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -538,7 +538,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7800</price>
     <price_eur currency="EUR">150</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -565,7 +565,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8377</price>
     <price_eur currency="EUR">161</price_eur>
-    <stock>під запит</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -583,7 +583,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7124</price>
     <price_eur currency="EUR">137</price_eur>
-    <stock>під запит</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -628,7 +628,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>1</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -637,7 +637,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7488</price>
     <price_eur currency="EUR">144</price_eur>
-    <stock>8</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -664,7 +664,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">9516</price>
     <price_eur currency="EUR">183</price_eur>
-    <stock>3</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -673,7 +673,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10660</price>
     <price_eur currency="EUR">205</price_eur>
-    <stock>під запит</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -709,7 +709,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10140</price>
     <price_eur currency="EUR">195</price_eur>
-    <stock>4</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -718,7 +718,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10140</price>
     <price_eur currency="EUR">195</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -727,7 +727,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10140</price>
     <price_eur currency="EUR">195</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -754,7 +754,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10140</price>
     <price_eur currency="EUR">195</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -799,7 +799,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>4</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -808,7 +808,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -826,7 +826,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>5</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -844,7 +844,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -862,7 +862,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>6</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -871,7 +871,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>5</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -934,7 +934,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">7800</price>
     <price_eur currency="EUR">150</price_eur>
-    <stock>під запит</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -988,7 +988,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">9620</price>
     <price_eur currency="EUR">185</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1015,7 +1015,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">9620</price>
     <price_eur currency="EUR">185</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1033,7 +1033,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">9620</price>
     <price_eur currency="EUR">185</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1051,7 +1051,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11596</price>
     <price_eur currency="EUR">223</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -1078,7 +1078,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10920</price>
     <price_eur currency="EUR">210</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1096,7 +1096,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12688</price>
     <price_eur currency="EUR">244</price_eur>
-    <stock>під запит</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1105,7 +1105,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12168</price>
     <price_eur currency="EUR">234</price_eur>
-    <stock>2</stock>
+    <stock>8</stock>
     <available>true</available>
   </product>
   <product>
@@ -1141,7 +1141,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">13312</price>
     <price_eur currency="EUR">256</price_eur>
-    <stock>під запит</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1150,7 +1150,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12168</price>
     <price_eur currency="EUR">234</price_eur>
-    <stock>4</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -1159,7 +1159,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12168</price>
     <price_eur currency="EUR">234</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1168,7 +1168,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10660</price>
     <price_eur currency="EUR">205</price_eur>
-    <stock>4</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -1177,7 +1177,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10660</price>
     <price_eur currency="EUR">205</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1213,7 +1213,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11128</price>
     <price_eur currency="EUR">214</price_eur>
-    <stock>8</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -1222,7 +1222,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12792</price>
     <price_eur currency="EUR">246</price_eur>
-    <stock>3</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -1231,7 +1231,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12792</price>
     <price_eur currency="EUR">246</price_eur>
-    <stock>під запит</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1240,7 +1240,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12168</price>
     <price_eur currency="EUR">234</price_eur>
-    <stock>під запит</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1259,7 +1259,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12168</price>
     <price_eur currency="EUR">234</price_eur>
-    <stock>під запит</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1268,7 +1268,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>3</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -1277,7 +1277,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>4</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -1286,7 +1286,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1295,7 +1295,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>5</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -1304,7 +1304,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1322,7 +1322,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>2</stock>
+    <stock>8</stock>
     <available>true</available>
   </product>
   <product>
@@ -1340,7 +1340,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11076</price>
     <price_eur currency="EUR">213</price_eur>
-    <stock>під запит</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1394,7 +1394,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>під запит</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -1439,7 +1439,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12272</price>
     <price_eur currency="EUR">236</price_eur>
-    <stock>1</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -1466,7 +1466,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11596</price>
     <price_eur currency="EUR">223</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1484,7 +1484,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>6</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -1520,7 +1520,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11648</price>
     <price_eur currency="EUR">224</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -1556,7 +1556,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12428</price>
     <price_eur currency="EUR">239</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1565,7 +1565,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">13988</price>
     <price_eur currency="EUR">269</price_eur>
-    <stock>під запит</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1655,7 +1655,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>під запит</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1736,7 +1736,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">17004</price>
     <price_eur currency="EUR">327</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -1745,7 +1745,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">17004</price>
     <price_eur currency="EUR">327</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -1772,7 +1772,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">9412</price>
     <price_eur currency="EUR">181</price_eur>
-    <stock>1</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1781,7 +1781,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11180</price>
     <price_eur currency="EUR">215</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1799,7 +1799,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">13780</price>
     <price_eur currency="EUR">265</price_eur>
-    <stock>під запит</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1808,7 +1808,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10400</price>
     <price_eur currency="EUR">200</price_eur>
-    <stock>9</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -1826,7 +1826,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">10400</price>
     <price_eur currency="EUR">200</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1844,7 +1844,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11752</price>
     <price_eur currency="EUR">226</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1853,7 +1853,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11752</price>
     <price_eur currency="EUR">226</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1862,7 +1862,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11752</price>
     <price_eur currency="EUR">226</price_eur>
-    <stock>3</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -1916,7 +1916,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">12480</price>
     <price_eur currency="EUR">240</price_eur>
-    <stock>під запит</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1943,7 +1943,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">11752</price>
     <price_eur currency="EUR">226</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -1961,7 +1961,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">17004</price>
     <price_eur currency="EUR">327</price_eur>
-    <stock>3</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -1970,7 +1970,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">17004</price>
     <price_eur currency="EUR">327</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1988,7 +1988,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">17004</price>
     <price_eur currency="EUR">327</price_eur>
-    <stock>під запит</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -1997,7 +1997,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">17004</price>
     <price_eur currency="EUR">327</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -2096,7 +2096,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">6708</price>
     <price_eur currency="EUR">129</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -2150,7 +2150,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8320</price>
     <price_eur currency="EUR">160</price_eur>
-    <stock>4</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -2168,7 +2168,7 @@
     <group>02_Sinks Synthetic</group>
     <price currency="UAH">8320</price>
     <price_eur currency="EUR">160</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -2213,7 +2213,7 @@
     <group>03_Taps</group>
     <price currency="UAH">9152</price>
     <price_eur currency="EUR">176</price_eur>
-    <stock>5</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -2222,7 +2222,7 @@
     <group>03_Taps</group>
     <price currency="UAH">5044</price>
     <price_eur currency="EUR">97</price_eur>
-    <stock>9</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -2231,7 +2231,7 @@
     <group>03_Taps</group>
     <price currency="UAH">3224</price>
     <price_eur currency="EUR">62</price_eur>
-    <stock>9</stock>
+    <stock>8</stock>
     <available>true</available>
   </product>
   <product>
@@ -2249,7 +2249,7 @@
     <group>03_Taps</group>
     <price currency="UAH">3536</price>
     <price_eur currency="EUR">68</price_eur>
-    <stock>8</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -2285,7 +2285,7 @@
     <group>03_Taps</group>
     <price currency="UAH">3536</price>
     <price_eur currency="EUR">68</price_eur>
-    <stock>9</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -2321,7 +2321,7 @@
     <group>03_Taps</group>
     <price currency="UAH">5564</price>
     <price_eur currency="EUR">107</price_eur>
-    <stock>2</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -2393,7 +2393,7 @@
     <group>03_Taps</group>
     <price currency="UAH">12220</price>
     <price_eur currency="EUR">235</price_eur>
-    <stock>7</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -2470,7 +2470,7 @@
     <group>03_Taps</group>
     <price currency="UAH">5928</price>
     <price_eur currency="EUR">114</price_eur>
-    <stock>під запит</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -2488,7 +2488,7 @@
     <group>03_Taps</group>
     <price currency="UAH">6500</price>
     <price_eur currency="EUR">125</price_eur>
-    <stock>4</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -2551,7 +2551,7 @@
     <group>03_Taps</group>
     <price currency="UAH">4056</price>
     <price_eur currency="EUR">78</price_eur>
-    <stock>9</stock>
+    <stock>8</stock>
     <available>true</available>
   </product>
   <product>
@@ -2587,7 +2587,7 @@
     <group>03_Taps</group>
     <price currency="UAH">4056</price>
     <price_eur currency="EUR">78</price_eur>
-    <stock>4</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -2614,7 +2614,7 @@
     <group>03_Taps</group>
     <price currency="UAH">5304</price>
     <price_eur currency="EUR">102</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -2623,7 +2623,7 @@
     <group>03_Taps</group>
     <price currency="UAH">5304</price>
     <price_eur currency="EUR">102</price_eur>
-    <stock>8</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -2641,7 +2641,7 @@
     <group>03_Taps</group>
     <price currency="UAH">5304</price>
     <price_eur currency="EUR">102</price_eur>
-    <stock>7</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -2696,7 +2696,7 @@
     <group>03_Taps</group>
     <price currency="UAH">10348</price>
     <price_eur currency="EUR">199</price_eur>
-    <stock>3</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -2805,7 +2805,7 @@
     <group>03_Taps</group>
     <price currency="UAH">12948</price>
     <price_eur currency="EUR">249</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -2850,7 +2850,7 @@
     <group>03_Taps</group>
     <price currency="UAH">8788</price>
     <price_eur currency="EUR">169</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -2887,7 +2887,7 @@
     <group>03_Taps</group>
     <price currency="UAH">9828</price>
     <price_eur currency="EUR">189</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -2905,7 +2905,7 @@
     <group>03_Taps</group>
     <price currency="UAH">18148</price>
     <price_eur currency="EUR">349</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -2950,7 +2950,7 @@
     <group>03_Taps</group>
     <price currency="UAH">15548</price>
     <price_eur currency="EUR">299</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -2959,7 +2959,7 @@
     <group>03_Taps</group>
     <price currency="UAH">15028</price>
     <price_eur currency="EUR">289</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3013,7 +3013,7 @@
     <group>03_Taps</group>
     <price currency="UAH">7280</price>
     <price_eur currency="EUR">140</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3040,7 +3040,7 @@
     <group>03_Taps</group>
     <price currency="UAH">7280</price>
     <price_eur currency="EUR">140</price_eur>
-    <stock>2</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3067,7 +3067,7 @@
     <group>03_Taps</group>
     <price currency="UAH">9828</price>
     <price_eur currency="EUR">189</price_eur>
-    <stock>під запит</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -3148,7 +3148,7 @@
     <group>03_Taps</group>
     <price currency="UAH">10868</price>
     <price_eur currency="EUR">209</price_eur>
-    <stock>2</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -3157,7 +3157,7 @@
     <group>03_Taps</group>
     <price currency="UAH">16068</price>
     <price_eur currency="EUR">309</price_eur>
-    <stock>9</stock>
+    <stock>8</stock>
     <available>true</available>
   </product>
   <product>
@@ -3222,7 +3222,7 @@
     <group>03_Taps</group>
     <price currency="UAH">12948</price>
     <price_eur currency="EUR">249</price_eur>
-    <stock>4</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3231,7 +3231,7 @@
     <group>03_Taps</group>
     <price currency="UAH">15548</price>
     <price_eur currency="EUR">299</price_eur>
-    <stock>5</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3240,7 +3240,7 @@
     <group>03_Taps</group>
     <price currency="UAH">11908</price>
     <price_eur currency="EUR">229</price_eur>
-    <stock>2</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3249,7 +3249,7 @@
     <group>03_Taps</group>
     <price currency="UAH">14508</price>
     <price_eur currency="EUR">279</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3322,7 +3322,7 @@
     <group>03_Taps</group>
     <price currency="UAH">15600</price>
     <price_eur currency="EUR">300</price_eur>
-    <stock>2</stock>
+    <stock>під запит</stock>
     <available>true</available>
     <archive>true</archive>
   </product>
@@ -3371,7 +3371,7 @@
     <group>04A_Franke hoods</group>
     <price currency="UAH">6292</price>
     <price_eur currency="EUR">121</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -3398,7 +3398,7 @@
     <group>04A_Franke hoods</group>
     <price currency="UAH">4420</price>
     <price_eur currency="EUR">85</price_eur>
-    <stock>8</stock>
+    <stock>9</stock>
     <available>true</available>
   </product>
   <product>
@@ -3497,7 +3497,7 @@
     <group>04A_Franke hoods</group>
     <price currency="UAH">17108</price>
     <price_eur currency="EUR">329</price_eur>
-    <stock>7</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -3515,7 +3515,7 @@
     <group>04A_Franke hoods</group>
     <price currency="UAH">4628</price>
     <price_eur currency="EUR">89</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -3587,7 +3587,7 @@
     <group>04A_Franke hoods</group>
     <price currency="UAH">8268</price>
     <price_eur currency="EUR">159</price_eur>
-    <stock>7</stock>
+    <stock>6</stock>
     <available>true</available>
   </product>
   <product>
@@ -3757,7 +3757,7 @@
     <group>04A_Franke hoods</group>
     <price currency="UAH">17628</price>
     <price_eur currency="EUR">339</price_eur>
-    <stock>під запит</stock>
+    <stock>2</stock>
     <available>true</available>
   </product>
   <product>
@@ -3804,7 +3804,7 @@
     <group>04A_Franke hoods</group>
     <price currency="UAH">28184</price>
     <price_eur currency="EUR">542</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -4065,7 +4065,7 @@
     <group>05_Hobs</group>
     <price currency="UAH">17836</price>
     <price_eur currency="EUR">343</price_eur>
-    <stock>7</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -4074,7 +4074,7 @@
     <group>05_Hobs</group>
     <price currency="UAH">21580</price>
     <price_eur currency="EUR">415</price_eur>
-    <stock>8</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -4092,7 +4092,7 @@
     <group>05_Hobs</group>
     <price currency="UAH">24700</price>
     <price_eur currency="EUR">475</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -4101,7 +4101,7 @@
     <group>05_Hobs</group>
     <price currency="UAH">27872</price>
     <price_eur currency="EUR">536</price_eur>
-    <stock>5</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -4119,7 +4119,7 @@
     <group>05_Hobs</group>
     <price currency="UAH">33488</price>
     <price_eur currency="EUR">644</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -4128,7 +4128,7 @@
     <group>05_Hobs</group>
     <price currency="UAH">38272</price>
     <price_eur currency="EUR">736</price_eur>
-    <stock>2</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -4155,7 +4155,7 @@
     <group>06_Ovens</group>
     <price currency="UAH">26572</price>
     <price_eur currency="EUR">511</price_eur>
-    <stock>2</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -4183,7 +4183,7 @@
     <group>06_Ovens</group>
     <price currency="UAH">30888</price>
     <price_eur currency="EUR">594</price_eur>
-    <stock>під запит</stock>
+    <stock>4</stock>
     <available>true</available>
   </product>
   <product>
@@ -4219,7 +4219,7 @@
     <group>06_Ovens</group>
     <price currency="UAH">16900</price>
     <price_eur currency="EUR">325</price_eur>
-    <stock>під запит</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -4228,7 +4228,7 @@
     <group>06_Ovens</group>
     <price currency="UAH">33540</price>
     <price_eur currency="EUR">645</price_eur>
-    <stock>6</stock>
+    <stock>5</stock>
     <available>true</available>
   </product>
   <product>
@@ -4237,7 +4237,7 @@
     <group>07_Dishwashers</group>
     <price currency="UAH">34580</price>
     <price_eur currency="EUR">665</price_eur>
-    <stock>3</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
@@ -4282,7 +4282,7 @@
     <group>09_Appliances Others</group>
     <price currency="UAH">13520</price>
     <price_eur currency="EUR">260</price_eur>
-    <stock>5</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -4455,7 +4455,7 @@
     <group>12_Accessories &amp; Soap Dispencers</group>
     <price currency="UAH">572</price>
     <price_eur currency="EUR">11</price_eur>
-    <stock>4</stock>
+    <stock>3</stock>
     <available>true</available>
   </product>
   <product>
@@ -4591,7 +4591,7 @@
     <group>12_Accessories &amp; Soap Dispencers</group>
     <price currency="UAH">7800</price>
     <price_eur currency="EUR">150</price_eur>
-    <stock>8</stock>
+    <stock>7</stock>
     <available>true</available>
   </product>
   <product>
@@ -4946,7 +4946,7 @@
     <group>12_Accessories &amp; Soap Dispencers</group>
     <price currency="UAH">2288</price>
     <price_eur currency="EUR">44</price_eur>
-    <stock>під запит</stock>
+    <stock>8</stock>
     <available>true</available>
   </product>
   <product>
@@ -4955,7 +4955,7 @@
     <group>12_Accessories &amp; Soap Dispencers</group>
     <price currency="UAH">1924</price>
     <price_eur currency="EUR">37</price_eur>
-    <stock>під запит</stock>
+    <stock>1</stock>
     <available>true</available>
   </product>
   <product>
@@ -5037,7 +5037,7 @@
     <group>15_Consumables</group>
     <price currency="UAH">6240</price>
     <price_eur currency="EUR">120</price_eur>
-    <stock>9</stock>
+    <stock>8</stock>
     <available>true</available>
   </product>
   <product>
@@ -5046,7 +5046,7 @@
     <group>15_Consumables</group>
     <price currency="UAH">7800</price>
     <price_eur currency="EUR">150</price_eur>
-    <stock>1</stock>
+    <stock>під запит</stock>
     <available>true</available>
   </product>
   <product>
